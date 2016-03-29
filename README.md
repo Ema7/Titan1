@@ -1,3 +1,7 @@
+Mor information on the Titan 1 mission can be found here:
+www.bombasaro.org/titan1
+
+
 /*
  TITAN HAB flight computer software
  Modifications copyright 2015 by Emanuel Bombasaro
@@ -43,6 +47,7 @@
    SS - pin 53
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 created 25-XII-2014 EMBO
 edited  20- II-2015 EMBO
 edited  03- III-2015 EMBO fixed sd write, no in the delay loop seems to work better.
