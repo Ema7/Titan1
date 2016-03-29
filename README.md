@@ -1,4 +1,4 @@
-Mor information on the Titan 1 mission can be found here:
+More information on the Titan 1 mission can be found here:
 www.bombasaro.org/titan1
 
 
